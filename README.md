@@ -4,9 +4,6 @@ Hey there, I am Varenyam Bhardwaj
 
 I'm just a random internet user who plays genshin impact and watches anime ~90% of the time~ ahem ahem no one should know that but i code.
 
-I could classify myself as a data science enthusiast (see what i did there?) and i am interested in deep learning though I haven't done much in the field
+I could classify myself as a data science enthusiast (see what i did there?) and i am interested in deep learning, app development with kotlin and also Im looking into backend using rust
 
-
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=airpods69&theme=dark&layout=compact&langs_count=10&exclude_repo=xbox360-linux)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Airpods69's GitHub stats](https://github-readme-stats.vercel.app/api?username=airpods69&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+One of the few things that I love doing is trying out the most absurd ways to do the most common tasks. Oh you want to make an app using C++ sure lets do it!
